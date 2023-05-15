@@ -30,3 +30,7 @@ bool issum(int n)
     return is_even(sum);
 }
 
+int main()
+{
+    
+}
