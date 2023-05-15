@@ -32,5 +32,6 @@ bool issum(int n)
 
 int main()
 {
-    
+    int a;
+    a = issum(53)
 }
